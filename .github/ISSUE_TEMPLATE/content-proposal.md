@@ -1,8 +1,8 @@
 ---
-name: content-proposal.md
+name: Content Proposal
 about: Use this template to propose content.
 title: ''
-labels: ''
+labels: Content
 assignees: ''
 
 ---
